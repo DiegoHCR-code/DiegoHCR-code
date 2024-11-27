@@ -43,9 +43,9 @@ Apaixonado por tecnologia e inovação, procuro criar soluções que unam efici�
 
 </p>
 
-<p align="left">
-   💼 Para entrar em contato comigo: ⤵️
-</p>
+<h2 align="left">
+   💼 Entre em contato comigo: ⤵️
+</h2>
 
 <p align="left">
 
