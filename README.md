@@ -11,7 +11,22 @@ Apaixonado por tecnologia e inovação, procuro criar soluções que unam efici�
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>HTML5</strong> - <strong>CSS3</strong>  
+<strong>CSS preprocessors</strong>  
+<strong>JavaScript</strong>  
+<strong>TypeScript</strong>  
+<strong>jQuery</strong>  
+<strong>Angular</strong>  
+<strong>React.js</strong>  
+<strong>React Native</strong>  
+<strong>C#</strong>  
+<strong>.NET</strong>  
+<strong>Version Control</strong>  
+<strong>SQL</strong>  
+<strong>Unit testing</strong>  
+<strong>E2E testing</strong>  
+<strong>Design System</strong>
+
 </p>
 
 <p align="left">
