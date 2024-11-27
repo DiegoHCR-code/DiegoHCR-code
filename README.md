@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h2 style="margin-bottom: 5rem;">Resumo Pessoal</h2>
+<h2 style="margin-bottom: 20px;">Resumo Pessoal</h2>
 
 <p align="left"> 
   Olá, meu nome é Diego Henrique Correia Resende, sou <strong>Engenheiro de Software Júnior</strong> e bacharel em Sistemas de Informação pela Universidade Federal de Uberlândia (UFU). Tenho uma base sólida em desenvolvimento de software, arquitetura de sistemas e boas práticas, adquirida ao longo da minha formação acadêmica e experiência profissional.
