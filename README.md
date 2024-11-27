@@ -72,7 +72,7 @@ Apaixonado por tecnologia e inovação, procuro criar soluções que unam efici�
   </a>
 
   <a href="mailto:diego_resende01@hotmail.com" alt="Outlook" target="_blank">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
   </a>
 </p>
 
