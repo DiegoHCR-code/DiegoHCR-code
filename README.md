@@ -11,21 +11,33 @@ Apaixonado por tecnologia e inovação, procuro criar soluções que unam efici�
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5</strong> - <strong>CSS3</strong>  <br/>
-<strong>CSS preprocessors</strong>    <br/>
-<strong>JavaScript</strong>    <br/>
-<strong>TypeScript</strong>    <br/>
-<strong>jQuery</strong>    <br/>
-<strong>Angular</strong>    <br/>
-<strong>React.js</strong>    <br/>
-<strong>React Native</strong>    <br/>
-<strong>C#</strong>    <br/>
-<strong>.NET</strong>    <br/>
-<strong>Version Control</strong>    <br/>
-<strong>SQL</strong>    <br/>
-<strong>Unit testing</strong>    <br/>
-<strong>E2E testing</strong>    <br/>
-<strong>Design System</strong>
+  ## 🛠️ **Habilidades Técnicas**
+
+### 🌐 **Desenvolvimento Web**
+- **HTML5**
+- **CSS3**
+- **CSS preprocessors** (Sass, Less)
+- **JavaScript**
+- **TypeScript**
+- **jQuery**
+
+### ⚙️ **Frameworks e Bibliotecas**
+- **Angular**
+- **React.js**
+- **React Native**
+
+### 💻 **Desenvolvimento Back-end**
+- **C#**
+- **.NET**
+- **SQL**
+
+### 🧪 **Testes e Controle de Versão**
+- **Unit Testing**
+- **E2E Testing**
+- **Version Control** (Git)
+
+### 🎨 **Design e Sistemas**
+- **Design System**
 
 </p>
 
