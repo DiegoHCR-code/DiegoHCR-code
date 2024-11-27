@@ -63,8 +63,8 @@ Apaixonado por tecnologia e inovação, procuro criar soluções que unam efici�
 </section>
 
 <div> 
-<a href="=https://www.instagram.com/diego_henrique189/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:seuemail@hotmail.com" alt="Hotmail" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/diego-henrique-24b8a51ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://www.instagram.com/diego_henrique189" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:diego_resende01@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diego-henrique-24b8a51ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>
 
