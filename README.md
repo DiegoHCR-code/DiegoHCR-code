@@ -11,7 +11,7 @@ Apaixonado por tecnologia e inovação, procuro criar soluções que unam efici�
 </p>
 
 <p align="left">
-  ## 🛠️ **Habilidades Técnicas**
+ <h1> 🛠️ **Habilidades Técnicas**</h1>
 
 ### 🌐 **Desenvolvimento Web**
 - **HTML5**
