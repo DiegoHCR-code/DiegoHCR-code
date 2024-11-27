@@ -12,40 +12,55 @@ Atualmente, atuo no desenvolvimento de soluções tecnológicas, combinando cria
 Apaixonado por tecnologia e inovação, procuro criar soluções que unam eficiência e criatividade, fortalecendo meu compromisso com a excelência e a evolução contínua.
 </p>
 
-<p align="left">
- <h2> 🛠️ **Habilidades Técnicas**</h2>
+<section>
+  <h3>🌐 Desenvolvimento Web</h3>
+  <ul>
+    <li><strong>HTML5</strong></li>
+    <li><strong>CSS3</strong></li>
+    <li><strong>CSS preprocessors</strong> (Sass, Less)</li>
+    <li><strong>JavaScript</strong></li>
+    <li><strong>TypeScript</strong></li>
+    <li><strong>jQuery</strong></li>
+  </ul>
+</section>
 
-### 🌐 **Desenvolvimento Web**
-- **HTML5**
-- **CSS3**
-- **CSS preprocessors** (Sass, Less)
-- **JavaScript**
-- **TypeScript**
-- **jQuery**
+<section>
+  <h3>⚙️ Frameworks e Bibliotecas</h3>
+  <ul>
+    <li><strong>Angular</strong></li>
+    <li><strong>React.js</strong></li>
+    <li><strong>React Native</strong></li>
+  </ul>
+</section>
 
-### ⚙️ **Frameworks e Bibliotecas**
-- **Angular**
-- **React.js**
-- **React Native**
+<section>
+  <h3>💻 Desenvolvimento Back-end</h3>
+  <ul>
+    <li><strong>C#</strong></li>
+    <li><strong>.NET</strong></li>
+    <li><strong>SQL</strong></li>
+  </ul>
+</section>
 
-### 💻 **Desenvolvimento Back-end**
-- **C#**
-- **.NET**
-- **SQL**
+<section>
+  <h3>🧪 Testes e Controle de Versão</h3>
+  <ul>
+    <li><strong>Unit Testing</strong></li>
+    <li><strong>E2E Testing</strong></li>
+    <li><strong>Version Control</strong> (Git)</li>
+  </ul>
+</section>
 
-### 🧪 **Testes e Controle de Versão**
-- **Unit Testing**
-- **E2E Testing**
-- **Version Control** (Git)
+<section>
+  <h3>🎨 Design e Sistemas</h3>
+  <ul>
+    <li><strong>Design System</strong></li>
+  </ul>
+</section>
 
-### 🎨 **Design e Sistemas**
-- **Design System**
-
-</p>
-
-<h2 align="left">
-   💼 Entre em contato comigo: ⤵️
-</h2>
+<section>
+   <h3>💼 Entre em contato comigo: </h3>
+</section>
 
 <p align="left">
 
