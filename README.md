@@ -63,11 +63,16 @@ Apaixonado por tecnologia e inovação, procuro criar soluções que unam efici�
 </section>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/diego-henrique-24b8a51ba/" alt="Linkedin" target="_blank" style="margin-right: 50px;">
+  <a href="https://www.linkedin.com/in/diego-henrique-24b8a51ba/" alt="Linkedin" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/diego_henrique189/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/diego_henrique189/" alt="Instagram" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
   </a>
+
+  <a href="mailto:diego_resende01@hotmail.com" alt="Outlook" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
+  </a>
 </p>
+
