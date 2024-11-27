@@ -1,8 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, meu nome é Diego Henrique Correia Resende, sou <strong>Engenheiro de Software Júnior</strong> e bacharel em Sistemas de Informação pela Universidade Federal de Uberlândia (UFU). Tenho uma base sólida em desenvolvimento de software, arquitetura de sistemas e boas práticas, adquirida ao longo da minha formação acadêmica e experiência profissional.
+
+Sou um profissional comprometido com o aprendizado contínuo e a busca por soluções tecnológicas inovadoras. Com habilidades eficazes de comunicação e uma postura proativa, transformo ideias em ações práticas, contribuindo para a melhoria constante de projetos e ambientes de trabalho.
+
+Atualmente, atuo no desenvolvimento de soluções tecnológicas, combinando criatividade e eficiência para entregar produtos de qualidade. Estou plenamente disposto a abraçar novos desafios, incluindo mudanças de cidade, para enriquecer minha trajetória profissional e explorar novas perspectivas no mercado.
+
+Apaixonado por tecnologia e inovação, procuro criar soluções que unam eficiência e criatividade, fortalecendo meu compromisso com a excelência e a evolução contínua.
 </p>
 
 <p align="left">
